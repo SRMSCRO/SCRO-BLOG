@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Writings Of SCRO`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Student Copter Research Organisation`,
+      summary: `(SCRO) is an Official Copter Research Team in SRM IST,Chennai`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Research Club of SRM`,
+    siteUrl: `https://scroblog.netlify.com`,
     social: {
       twitter: `kylemathews`,
     },
@@ -66,7 +66,8 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        //icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/scro_logo.jpg`,
       },
     },
     `gatsby-plugin-react-helmet`,
